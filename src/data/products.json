@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "name": "Beds",
+        "size": 1.2,
+        "image": "bed"
+    },
+    {
+        "id": 2,
+        "name": "Fridge",
+        "size": 0.5,
+        "image": "fridge"
+    },
+    {
+        "id": 3,
+        "name": "Washer-drying",
+        "size": 0.5,
+        "image": "washer"
+
+    },
+    {
+        "id": 4,
+        "name": "Furniture",
+        "size": 0.5,
+        "image": "furniture"
+    },
+    {
+        "id": 5,
+        "name": "Oven",
+        "size": 0.6,
+        "image": "oven"
+    },
+    {
+        "id": 6,
+        "name": "Sofa",
+        "size": 1.5,
+        "image": "sofa"
+    },
+    {
+        "id": 7,
+        "name": "Tv",
+        "size": 0.25,
+        "image": "tv"
+    },
+    {
+        "id": 8,
+        "name": "Dining",
+        "size": 0.5,
+        "image": "dining"
+    },
+    {
+        "id": 9,
+        "name": "Desk",
+        "size": 0.75,
+        "image": "desk"
+    },
+    {
+        "id": 10,
+        "name": "Wardrobe",
+        "size": 3.2,
+        "image": "closet"
+    }
+]
