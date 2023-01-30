@@ -42,8 +42,8 @@ const Footer = () => {
     <div className="flex flex-col">
       <h3 className="mb-10">Contact Us</h3>
       <div className="flex flex-col  gap-2 font-light space-y-0 text-xs">
-        <span>Ricardo Mondragon 444</span>
-        <span>Phone: +52 81123 5678</span>
+        <span>Reforma 222</span>
+        <span>Phone: +527823782378</span>
         <span>Email: info@challenge.com</span>
       </div>
       <div className="mt-4">
