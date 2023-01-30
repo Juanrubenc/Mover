@@ -1,4 +1,10 @@
 import React from 'react'
+import {
+  GrTwitter,
+  GrFacebook,
+  GrInstagram,
+  BsWhatsapp,
+} from "react-icons/all";
 
 const Footer = () => {
   return (
@@ -51,4 +57,4 @@ const Footer = () => {
   )
 }
 
-export default footer
+export default Footer

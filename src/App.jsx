@@ -46,6 +46,18 @@ function App() {
           removeFromCart={removeFromCart}
           quantity={quantity}
         />
+        <div className="md:max-w-screen-lg px-10 mx-auto">
+          {/* clear cart button */}
+          <button
+            className="bg-[#FD9255] text-white p-2 rounded-md mt-5"
+            onClick={() => {
+              setCart([]);
+              setQuantity({});
+            }}
+          >
+            Clear Cart
+          </button>
+        </div>
         <Cart cart={cart} />
       </main>
       <footer className="bg-[#FD9255]  text-white">
