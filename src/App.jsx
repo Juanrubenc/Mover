@@ -36,7 +36,7 @@ function App() {
             What Items to Store?
           </h1>
           <p className="p-5 m-2 font-light lg:text-normal text-gray-500 text-center">
-            Select which items you wish to store before moving to your new home.
+            Select which item you wish to store before moving to your new home.
             We’ll keep ’em safe!
           </p>
         </section>
